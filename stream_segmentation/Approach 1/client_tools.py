@@ -11,7 +11,3 @@ def crop_ultrasound_stream(img):
 def crop_image(img):
     to_crop = int(img.shape[0] * 0.1) # removes this many rows from the top
     return img[to_crop:, :]
-
-# def crop_image(img):
-#     to_crop = int(img.GetSize()[1] * 0.1) # removes this many rows from the top
-#     return img[:, to_crop:]
