@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43524342/165301411-0dbca744-c0b7-44a4-86ca-fb3f5ee3b52c.gif" alt="animated" />
 </p>
+
 # Ovarian Segmentation Thesis
 This repository contains code for the preparation of the Ovarian Cyst dataset to be used in the production of a model which could segment Ovarian cyst features
 with a high degree of accuracy. The dataset is not available publicly and therefore this repository will not contain the dataset utilised or the model produced.
